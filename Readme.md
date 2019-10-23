@@ -11,7 +11,7 @@ _Neutrino flavour is considered as a mixed state of mass eigenstates (ν_a,a = 1
 
 
 
-The source code of this project was a mere conversion to python for Jean Michel Sellier's implementation of (ballistic) single-body Wigner Monte Carlo method based on the signed particle formulation of quantum mechanics.
+The source code of this project was a mere conversion to python of Jean Michel Sellier's implementation of (ballistic) single-body Wigner Monte Carlo method based on the signed particle formulation of quantum mechanics.
 
 ### **Team Members**:
 Shakir Ahmed                (s.ahmed7733@gmail.com) (shakir.ahmed@student.sust.edu)
@@ -21,10 +21,10 @@ Mahiyath Karim Chowdhury    (mahiyath.hiya.18@gmail.com)
 
  
 ### **Acknowledgement**:
-Dr. Md Enamul Hoque, Assistant Professor, SUST          (mjonyh@gmail.com)
-Dr. Syed Badiuzzaman Faruque, Professor, SUST           (awsbf62@yahoo.com)
-Jaseer Ahmed, Lecturer, SUST                            (jaseer-phy@sust.edu)
-Jean Michel Sellier, MILA, Montr´eal, Qu´ebec, Canada   (jeanmichel.sellier@gmail.com) (nano-archimedes.com)
+Asst. Prof. Dr. Md Enamul Hoque, Assistant Professor, SUST              (mjonyh@gmail.com)
+Prof. Dr. Dr. Syed Badiuzzaman Faruque, Professor, SUST                 (awsbf62@yahoo.com)
+Lecturer Jaseer Ahmed, Lecturer, SUST                                   (jaseer-phy@sust.edu)
+Prof. Dr. Jean Michel Sellier, MILA, Montr´eal, Qu´ebec, Canada         (jeanmichel.sellier@gmail.com) (nano-archimedes.com)
 
 
 The original C++ code for Wigner Monte Carlo method can be found at (nano-archimedes.com). 
