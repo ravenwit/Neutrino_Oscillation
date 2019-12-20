@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 import mpmath
 import simulate
 
+
 directory = "Data/3"
 
 # Preprocessor Definitions
