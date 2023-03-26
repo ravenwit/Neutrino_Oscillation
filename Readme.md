@@ -24,7 +24,7 @@ Mahiyath Karim Chowdhury    (mahiyath.hiya.18@gmail.com)
 Asst. Prof. Dr. Md Enamul Hoque, Assistant Professor, SUST              (mjonyh@gmail.com)
 Prof. Dr. Dr. Syed Badiuzzaman Faruque, Professor, SUST                 (awsbf62@yahoo.com)
 Lecturer Jaseer Ahmed, Lecturer, SUST                                   (jaseer-phy@sust.edu)
-Prof. Dr. Jean Michel Sellier, MILA, Montr´eal, Qu´ebec, Canada         (jeanmichel.sellier@gmail.com) (nano-archimedes.com)
+Prof. Dr. Jean Michel Sellier, MILA, Montr´eal, Qu´ebec, Canada         (jeanmichel.sellier@gmail.com) [nano-archimedes.com](nano-archimedes.com)
 
 
-The original C++ code for Wigner Monte Carlo method can be found at (nano-archimedes.com). 
+The original C++ code for Wigner Monte Carlo method can be found at [nano-archimedes.com](nano-archimedes.com). 
